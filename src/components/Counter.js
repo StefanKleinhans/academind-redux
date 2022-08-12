@@ -1,5 +1,4 @@
-import { Component } from "react";
-import { useSelector, connect, useDispatch } from "react-redux";
+import { useSelector, useDispatch } from "react-redux";
 import classes from "./Counter.module.css";
 
 const Counter = () => {
